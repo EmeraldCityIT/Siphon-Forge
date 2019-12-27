@@ -6,7 +6,7 @@ The injection mold lies beneath a magma reseviour.
 
 The injection mold is filled with water.
 
-Water temperature is between 110 and 200+ F.
+Water temperature is between -110 and -200 F.
 
 Steel Magma sits in a open-top resevoar at 14,400 F Krypton Temperature.
 
