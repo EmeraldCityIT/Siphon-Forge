@@ -23,3 +23,5 @@ The final forged temperature of the injection will be 224.5 F.
 238 F for Armor
 
 297 F for the best armor
+
+Ice within injection mold melts upon contact with magma and is ejected as hot water and steam.
